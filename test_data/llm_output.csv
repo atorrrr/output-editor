@@ -1,0 +1,14 @@
+What is the user's name?,{"firstName": "John", "lastName": "Doe2", "email": "john.doe@example.com"}
+Provide the user's address,{ "firstName": "Alice", "lastName": "Smith", "email": "alice.smith@example.com", "address": { "street": "123 Main St", "city": "New York", "country": "USA" } }
+What are the user's interests?,{ "firstName": "Bob", "lastName": "Johnson", "email": "bob.johnson@example.com", "interests": ["reading", "traveling", "cooking"] }
+Invalid user profile,{ "name": "Invalid User", "age": "invalid_age" }
+User with full details,asdf addressasdf
+asdfasdf
+asdfasdfadf
+asdfasdfasdfasdf
+,{ "firstName": "Sarah",
+ "lastName": "Davis",
+  "age": 30, 
+  "email": "sarah.davis@example.com",
+   "phone": "+1-555-123-4567", 
+   "address": { "street": "456 Elm St", "city": "Chicago", "state": "IL", "zipCode": "60601", "country": "USA" }, "interests": ["photography", "hiking"] }
